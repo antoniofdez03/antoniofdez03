@@ -1,5 +1,5 @@
-# Hi, I'm Antoniofdez 👋
+#👋 Hi! I'm Antoniofdez
 
-## About me
+## 📝 About me
 I'm a Software Engineer and a Master’s student in Videogame Design.
 
